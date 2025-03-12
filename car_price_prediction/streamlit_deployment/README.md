@@ -7,9 +7,12 @@ This Streamlit app provides real-time car price predictions based on key feature
 1. **Clone the repository:**  
 
    ```bash
-   git clone https://github.com/ayasophian0/resume_projects/tree/main/car_price_prediction/streamlit_deployment
-
+   git clone https://github.com/ayasophian0/resume_projects.git
+   
 2. **Go to the streamlit_deployment folder in your local.**
+
+   ```bash
+   cd resume_projects/car_price_prediction/streamlit_deployment
 
 3. **Install dependencies**
 
